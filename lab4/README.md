@@ -1,6 +1,6 @@
 # Lab 4
 
-## Zadania obowiązkowe
+## Zadania na ćwiczenia 4
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

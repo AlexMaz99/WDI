@@ -1,6 +1,6 @@
 # Lab 3
 
-## Zadania obowiązkowe
+## Zadania na ćwiczeniai 3
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

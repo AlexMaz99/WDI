@@ -1,6 +1,6 @@
 # Lab 5
 
-## Zadania obowiązkowe
+## Zadania na ćwiczenia 5
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

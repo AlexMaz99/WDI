@@ -1,6 +1,6 @@
 # Lab 1
 
-## Zadania obowiązkowe
+## Zadania na ćwiczenia 1
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|
